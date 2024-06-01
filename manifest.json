@@ -1,8 +1,9 @@
 {
- "display": "fullscreen",
- "name": "Sistema Educacional Único",
  "start_url": "index.htm?installed=true",
+ "name": "Sistema Educacional Único",
  "background_color": "#FFFFFF",
+ "display": "fullscreen",
+ "theme_color": "#FFFFFF",
  "icons": [
   {
    "type": "image/png",
@@ -39,6 +40,5 @@
    "sizes": "64x64",
    "src": "misc/icon64.png"
   }
- ],
- "theme_color": "#FFFFFF"
+ ]
 }
